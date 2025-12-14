@@ -121,8 +121,8 @@ dengue_project/
 ├── report/                 # LaTeX report
 │   └── main.tex
 │
-└── notebooks/              # Jupyter notebooks (exploratory)
-    └── dengue_project.ipynb
+└── Data Gathering/
+    └── data_gathering.ipynb
 ```
 
 ---
