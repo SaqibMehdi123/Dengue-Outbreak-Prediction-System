@@ -36,6 +36,7 @@ env/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+Data Gathering\dengue_project.ipynb
 
 # Large data files (optional - uncomment if you don't want to push data)
 # data/*.csv
